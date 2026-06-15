@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pino Habit"
+  short_description: "Apply Pino ABP coding habits"
+  default_prompt: "Use $pino-habit when editing or reviewing ABP .NET code."
